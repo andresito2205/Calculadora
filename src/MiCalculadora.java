@@ -21,7 +21,11 @@ int numero2 = Integer.parseInt(JOptionPane.showInputDialog("Ingrese numero2"));
 
 
 
+
 JOptionPane.showMessageDialog(null, "El resultado de la suma es: " +(numero1+numero2));
+
+JOptionPane.showMessageDialog(null, "El resultado de la division es: " +(numero1/numero2));
+
 
 
 
