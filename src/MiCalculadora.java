@@ -26,6 +26,7 @@ JOptionPane.showMessageDialog(null, "El resultado de la suma es: " +(numero1+num
 
 JOptionPane.showMessageDialog(null, "El resultado de la division es: " +(numero1/numero2));
 JOptionPane.showMessageDialog(null, "El resultado de la multiplicacion es: " +(numero1*numero2));
+JOptionPane.showMessageDialog(null, "El resultado de la resta es: " +(numero1-numero2));
 
 
 }
